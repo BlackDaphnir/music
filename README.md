@@ -12,4 +12,4 @@ Text-based music resources. Contains:
 | Coolio - Gangsta's Paradise           | x         | x           | x     |
 | Black Eyed Peas - Let's Get Retarded  | x         | x           | x     |
 | DNCE - Cake By The Ocean              | x         | x           | x     |
-| The Cranberries - Zombie              | x         |             |       |
+| The Cranberries - Zombie              | x         | x           | x     |
