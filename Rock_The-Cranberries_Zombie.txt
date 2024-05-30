@@ -1,0 +1,29 @@
+The Cranberries - Zombie
+
+BPM: 81
+Time Signature: 4/4
+Key: x (x x x x x x x)
+Progression : i i i i (A A A A)
+
+Structure:
+
+    Part    Bars    Substructure
+
+    Intro   12      
+    Verse   4+8     
+    Hook    8       
+    Chorus  8+4     
+    Verse   4+8     
+    Hook    8       
+    Chorus  8+4+4   
+    Solo    4+4+8+4 
+    Outro   6+1     
+
+Tabs (if needed):
+
+Ch  C               b                                A               
+X ||--------------------------------|--------------------------------
+X ||--------------------------------|--------------------------------
+X ||--------------------------------|--------------------------------
+X ||--------------------------------|--------------------------------
+    | i + e | i + e | i + e | i + e  | i + e | i + e | i + e | i + e 

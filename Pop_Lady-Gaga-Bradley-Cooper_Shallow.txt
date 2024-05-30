@@ -1,0 +1,35 @@
+Lady Gaga & Bradley Cooper - Shallow
+
+BPM: 96
+Time Signature: 4/4
+Key: x (x x x x x x x)
+Progression : i i i i (A A A A)
+
+Structure:
+
+    Part    Bars   Substructure
+
+    Intro   6      - - - - - -
+    Verse          -
+    Verse
+    Chorus
+    Bridge
+    Chorus
+    Outro
+
+
+Chord chart (per part):
+
+||A   |B C |%   |D   |
+ |    |    |    |    |
+ |    |    |    |    ||
+
+
+Tabs:
+
+Ch  C               b                                A               
+X ||--------------------------------|--------------------------------
+X ||--------------------------------|--------------------------------
+X ||--------------------------------|--------------------------------
+X ||--------------------------------|--------------------------------
+    | i + e | i + e | i + e | i + e  | i + e | i + e | i + e | i + e 

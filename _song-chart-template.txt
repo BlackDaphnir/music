@@ -1,0 +1,36 @@
+Artist - Song
+
+BPM: xx
+Time Signature: x/x
+Key: x (x x x x x x x)
+Progression : i i i i (A A A A)
+
+Structure:
+
+    Part    Bars   Substructure
+
+    Intro   4      A A
+    Verse   12     B B A A A A
+    Chorus  8      B B B B
+    Verse   12     A A A A A A
+    Bridge  4      A A
+    Chorus  8      B B B B
+    Verse   8      A A A A
+    Chorus  8      B B B B
+    Bridge  8      B B B B
+    Outro   4+4    B B - -
+
+Chord chart (per part):
+
+||A   |B C |%   |D   |
+ |    |    |    |    |
+ |    |    |    |    ||
+
+Tabs (if needed):
+
+Ch  C               b                                A               
+X ||--------------------------------|--------------------------------
+X ||--------------------------------|--------------------------------
+X ||--------------------------------|--------------------------------
+X ||--------------------------------|--------------------------------
+    | i + e | i + e | i + e | i + e  | i + e | i + e | i + e | i + e 
