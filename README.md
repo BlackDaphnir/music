@@ -6,10 +6,10 @@ Text-based music resources. Contains:
 
 ## Song chart progress
 
-|                    	| Structure 	| Chord Chart 	| Riffs 	    |
-|--------------------	|:---------:	|:-----------:	|:-----:	    |
-| Shallow            	|           	|             	|       	    |
-| Gangsta's Paradise 	| x         	| x           	| x     	    |
-| Let's Get Retarded 	| x         	|             	|       	    |
-| Cake By The Ocean  	| x         	| x           	| x     	    |
-| Zombie             	| x         	|             	|       	    |
+| Piece                	                | Structure | Chord Chart | Riffs |
+|---------------------------------------|:---------:|:-----------:|:-----:|
+| Lady Gaga & Bradley Cooper - Shallow  |           |             |       |
+| Coolio - Gangsta's Paradise           | x         | x           | x     |
+| Black Eyed Peas - Let's Get Retarded  | x         | x           | x     |
+| DNCE - Cake By The Ocean              | x         | x           | x     |
+| The Cranberries - Zombie              | x         |             |       |
