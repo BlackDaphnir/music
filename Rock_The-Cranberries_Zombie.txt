@@ -5,6 +5,8 @@ Time Signature: 4/4
 Key: E minor (E F# G A B C D)
 Progression : i VImaj7 III6 i11/F# (e Cmaj7 G6 e11/F#)
 
+Bass tone: Loud and clear, played downpicking.
+
 Structure:
 
     Part    Bars    Substructure

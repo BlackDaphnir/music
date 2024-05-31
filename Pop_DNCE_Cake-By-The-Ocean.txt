@@ -5,6 +5,8 @@ Time Signature: 4/4
 Key: Em (E F# G A B C D)
 Progression : i v iv VI (e b a C)
 
+Bass tone: Dark but some mids. Maybe neck with a bit of bridge, with tone halfway.
+
 Structure:
 
     Part        Bars   Substructure

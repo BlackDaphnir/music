@@ -5,6 +5,8 @@ Time Signature: 4/4
 Key: C minor (C D Eb F G Ab Bb)
 Progression : VI iv V i (Ab f G c)
 
+Bass tone: Mid heavy, especially the chorus riff.
+
 Structure:
 
     Part    Bars   Substructure
