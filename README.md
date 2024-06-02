@@ -8,7 +8,7 @@ Text-based music resources. Contains:
 
 | Piece                	                | Structure | Chord Chart | Riffs |
 |---------------------------------------|:---------:|:-----------:|:-----:|
-| Lady Gaga & Bradley Cooper - Shallow  |           |             |       |
+| Lady Gaga & Bradley Cooper - Shallow  | x         |             | x     |
 | Coolio - Gangsta's Paradise           | x         | x           | x     |
 | Black Eyed Peas - Let's Get Retarded  | x         | x           | x     |
 | DNCE - Cake By The Ocean              | x         | x           | x     |
