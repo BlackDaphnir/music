@@ -1,32 +1,36 @@
 Postmodern Jukebox - Creep
 
-BPM: xx
-Time Signature: x/x
-Key: x (x x x x x x x)
+BPM: 60
+Time Signature: 4/4 swing feel
+Key: F (x x x x x x x)
 Progression : i i i i (A A A A)
 
-Tone: Dark and "double bass like". Tried with neck pick-up, tone down, volume down, plucking softly by neck and fretting over the fret to dampen sound.
+Tone: Played on a double bass. Jazz: tried with neck pick-up, tone down, volume 2/3, plucking softly by neck and fretting over the fret to dampen sound.
 
 Structure:
 
-    Part    Bars   Substructure
+    Part       Bars   Substructure
 
-    Intro   4      A A
-    Verse   12     B B A A A A
-    Chorus  8      B B B B
-    Verse   12     A A A A A A
-    Bridge  4      A A
-    Chorus  8      B B B B
-    Verse   8      A A A A
-    Chorus  8      B B B B
-    Bridge  8      B B B B
-    Outro   4+4    B B - -
+    Verse 1    8      
+    Chorus 1   8      
+    Verse 2    8      
+    Chorus 2   8      
+
+    Bridge     4      A A
+    Verse      12     A A A A A A
+    Verse      8      A A A A
+    Chorus     8      B B B B
+    Bridge     8      B B B B
+    Outro      4+4    B B - -
 
 Chord chart (per part):
 
-||A   |B C |%   |D   |
- |    |    |    |    |
- |    |    |    |    ||
+Verse 1&2:
+||F   |A   |Bb  |Bbm || x2
+
+Chorus:
+||F   |%   |A   |%   |
+ |Bb  |%   |Bbm |    ||
 
 Tabs (if needed):
 
