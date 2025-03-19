@@ -1,7 +1,7 @@
 Postmodern Jukebox - Creep
 
 BPM: 60
-Time Signature: 4/4 swing feel
+Time Signature: 4/4 shuffle
 Key: F (x x x x x x x)
 Progression : i i i i (A A A A)
 
@@ -25,12 +25,30 @@ Structure:
 
 Chord chart (per part):
 
-Verse 1&2:
-||F   |A   |Bb  |Bbm || x2
+60bpm 4/4 shuffle
 
-Chorus:
-||F   |%   |A   |%   |
- |Bb  |%   |Bbm |    ||
+||F   |A7  |Bb  |Bbm | x2   (Verse)
+
+ |F   |%   |A7  |%   |      (Chorus)
+ |Bb  |%   |Bbm |(%) |
+
+ |F   |A7  |Bb  |Bbm | x2   (Verse)
+
+ |F   |%   |A7  |%   |      (Chorus)
+ |Bb  |%   |Bbm |(%) |
+
+ |    |    |    |    |      (Interlude - 8/12 straight triplet feel)
+ |    |    |    |    |
+
+ |F   |%   |A7  |%   |
+ |Bb  |%   |Bbm |(%) |
+
+ |F   |A7  |Bb  |Bbm |      (Verse)
+
+ |F   |%   |A7  |%   |      (Chorus)
+ |Bb  |%   |Bbm |    |      à vérifier
+ |?   |G   |C7  |%   |      (Modulation) - à vérifier
+ |Db  |%   |Dbm |%   ||
 
 Tabs (if needed):
 
