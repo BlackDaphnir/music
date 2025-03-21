@@ -37,7 +37,7 @@ Chord chart (per part):
  |F   |%   |A7  |%   |      (Chorus)
  |Bb  |%   |Bbm |(%) |
 
- |    |    |    |    |      (Interlude - 8/12 straight triplet feel)
+ |F   |%   |A7  |%   |      (Interlude - 8/12 straight triplet feel)
  |    |    |    |    |
 
  |F   |%   |A7  |%   |
@@ -46,8 +46,8 @@ Chord chart (per part):
  |F   |A7  |Bb  |Bbm |      (Verse)
 
  |F   |%   |A7  |%   |      (Chorus)
- |Bb  |%   |Bbm |    |      à vérifier
- |?   |G   |C7  |%   |      (Modulation) - à vérifier
+ |Bb  |%   |Bbm |*   |      * montée Cm Db Eb
+ |    |G   |C7  |%   |      (Modulation)
  |Db  |%   |Dbm |%   ||
 
 Tabs (if needed):
