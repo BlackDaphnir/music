@@ -1,0 +1,56 @@
+Rain Paris - Toxic
+
+BPM: 143
+Time Signature: 4/4
+Key: Cm (x x x x x x x)
+Progression : i i i i (A A A A)
+
+Structure:
+
+8+8 couplet + couplet (check)
+8+2 pre-refrain
+16 refrain
+8 couplet
+8+2 pre-refrain
+16 refrain
+8+4  interlude
+16 refrain
+
+    Part         Bars   Substructure
+
+    Intro/Verse  8      
+    Verse        8      
+    Pre-Chorus   8+2    
+    Chorus       16     
+    Verse        8      
+    Pre-Chorus   8+2    
+    Chorus       16     
+    Bridge       8+4    
+    Chorus       16     
+
+Chord chart (per part):
+
+||A   |B C |%   |D   |
+ |    |    |    |    |
+ |    |    |    |    |
+ |    |    |    |    |
+ |    |    |    |    |
+ |    |    |    |    |
+ |    |    |    |    |
+ |    |    |    |    |
+ |    |    |    |    |
+ |    |    |    |    |
+ |    |    |    |    |
+ |    |    |    |    |
+ |    |    |    |    |
+ |    |    |    |    |
+ |    |    |    |    ||
+
+Tabs (if needed):
+
+Ch  C               b                                A               
+X ||--------------------------------|--------------------------------
+X ||--------------------------------|--------------------------------
+X ||--------------------------------|--------------------------------
+X ||--------------------------------|--------------------------------
+    | i + e | i + e | i + e | i + e  | i + e | i + e | i + e | i + e 
