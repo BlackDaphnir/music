@@ -7,15 +7,6 @@ Progression : i i i i (A A A A)
 
 Structure:
 
-8+8 couplet + couplet (check)
-8+2 pre-refrain
-16 refrain
-8 couplet
-8+2 pre-refrain
-16 refrain
-8+4  interlude
-16 refrain
-
     Part         Bars   Substructure
 
     Intro/Verse  8      
