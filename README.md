@@ -21,4 +21,4 @@ Text-based music resources. Contains:
 | The Killers - Mr. Brightside                      |           |             |       |
 | The Weeknd/Our Last Night - Can't Feel My Face    |           |             |       |
 | Taylor Swift/Our Last Night - Blank Space         |           |             |       |
-| Dua Lipa/First To Elevent - New Rules             |           |             |       |
+| Dua Lipa/First To Eleven - New Rules              |           |             |       |
