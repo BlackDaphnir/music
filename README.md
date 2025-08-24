@@ -14,8 +14,8 @@ Text-based music resources. Contains:
 | Black Eyed Peas - Let's Get Retarded              | x         | x           | x     |
 | DNCE - Cake By The Ocean                          | x         | x           | x     |
 | The Cranberries - Zombie                          | x         | x           | x     |
-| Britney Spears/Rain Paris - Toxic                 |           |             |       |
-| Postmodern Jukebox - Creep                        |           |             |       |
+| Britney Spears/Rain Paris - Toxic                 | x         |             |       |
+| Postmodern Jukebox - Creep                        | x         | x           |       |
 | Bruno Mars - When I Was Your Man                  |           |             |       |
 | Muse - Feeling Good                               |           |             |       |
 | The Killers - Mr. Brightside                      |           |             |       |
