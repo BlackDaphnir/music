@@ -1,11 +1,11 @@
-Artist - Song
+The Killers - Mr. Brightside
 
-BPM: xx
-Time Signature: x/x
+BPM: 148
+Time Signature: 4/4
 Key: x (x x x x x x x)
 Progression : i i i i (A A A A)
 
-Structure:
+TODO Structure:
 
     Part    Bars   Substructure
 
@@ -20,13 +20,13 @@ Structure:
     Bridge  8      B B B B
     Outro   4+4    B B - -
 
-Chord chart (per part):
+TODO Chord chart (per part):
 
 ||A   |B C |%   |D   |
  |    |    |    |    |
  |    |    |    |    ||
 
-Tabs (if needed):
+TODO Tabs (if needed):
 
 Ch  C               b                                A               
 X ||--------------------------------|--------------------------------
