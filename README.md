@@ -25,7 +25,7 @@ Text-based music resources. Contains:
 
 ## Song chart progress
 
-| Piece                	                                    | Structure | Chord Chart | Riffs |
+| Piece                	                                    | Structure | Chord Chart | Tabs  |
 |-----------------------------------------------------------|:---------:|:-----------:|:-----:|
 | Artist - Title                                            | -         | -           | -     |
 | Lady Gaga & Bradley Cooper - Shallow                      | x         | -           | x     |
@@ -36,8 +36,8 @@ Text-based music resources. Contains:
 | Britney Spears/Rain Paris - Toxic                         | x         | -           | -     |
 | Postmodern Jukebox - Creep                                | x         | x           | -     |
 | Bruno Mars - When I Was Your Man                          | -         | -           | -     |
-| Muse - Feeling Good                                       | -         | -           | -     |
-| The Killers - Mr. Brightside                              | x         | -           | o     |
+| Muse - Feeling Good                                       | o         | -           | o     |
+| The Killers - Mr. Brightside                              | x         | -           | x     |
 | The Weeknd/Our Last Night - Can't Feel My Face            | -         | -           | -     |
 | Beat It/Can't Hold Us - Michael Jackson/Macklemore        | -         | -           | -     |
 | Taylor Swift/Our Last Night - Blank Space                 | -         | -           | -     |
