@@ -24,8 +24,8 @@ Text-based music resources. Contains:
 | Taylor Swift/Our Last Night - Blank Space                 | -         | -           | -     |
 | Dua Lipa/First To Eleven - New Rules                      | -         | -           | -     |
 
-|Legend |       |
-|:-----:|-------|
-|   -   | TODO  |
-|   o   | DOING |
-|   x   | DONE  |
+| Legend |       |
+|:------:|-------|
+|   -    | TODO  |
+|   o    | DOING |
+|   x    | DONE  |
