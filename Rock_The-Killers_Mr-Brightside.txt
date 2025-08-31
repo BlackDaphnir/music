@@ -4,8 +4,9 @@ The Killers - Mr. Brightside
 BPM: 148
 Time Signature: 4/4
 Key: x (x x x x x x x)
-
 TODO Progression : i i i i (A A A A)
+
+Bass tone: slightly overdriven jazz bass, played downpicking.
 
 Structure:
 
@@ -37,6 +38,7 @@ E ||----------------|----------------|----------------|----------------|
     | & | & | & | &  | & | & | & | &  | & | & | & | &  | & | & | & | &  
 
 Riff I (intro)
+                                                                        
 Ch                                                                      
 G ||----------------|----------------|----------------|----------------|
 D ||----------------|----------------|----------------|----------------|

@@ -4,6 +4,25 @@ Text-based music resources. Contains:
 * A song chart template with song characteristics, structure, chord chart, and tab templates.
 * Song charts
 
+## Tab tips
+
+| Symbol | Meaning                                          |
+|:------:|--------------------------------------------------|
+|   x    | xxx                                              |
+|   x    | Muted note/Dead note                             |
+| (fret) | Ghost note                                       |
+|   /    | Slide up                                         |
+|   \    | Slide down                                       |
+|   h    | Hammer-on (e.g. 3h5)                             |
+|   p    | Pull-off (e.g. 5p3)                              |
+|   b    | Bend (e.g. 3b4)                                  |
+|   ~    | Vibrato                                          |
+|   tr   | Trill                                            |
+|   v    | Downstroke (pick)                                |
+|   ^    | Upstroke (pick)                                  |
+|   PM   | Palm Mute                                        |
+|   LR   | Let Ring                                         |
+
 ## Song chart progress
 
 | Piece                	                                    | Structure | Chord Chart | Riffs |

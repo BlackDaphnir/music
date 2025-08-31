@@ -5,6 +5,8 @@ Time Signature: x/x
 Key: x (x x x x x x x)
 Progression : i i i i (A A A A)
 
+TODO Bass tone: plucked/picked, effects, characteristics, how-to, etc.
+
 TODO Structure:
 
     Part    Bars   Substructure
