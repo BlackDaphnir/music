@@ -28,7 +28,7 @@ TODO Chord chart (per part):
  |    |    |    |    |
  |    |    |    |    ||
 
-DOING Tabs (D and E missing):
+Tabs:
 
 Ch                                                                      
 G ||----------------|----------------|----------------|----------------|
