@@ -39,7 +39,7 @@ Text-based music resources. Contains:
 | Muse - Feeling Good                                       | o         | -           | o     |
 | The Killers - Mr. Brightside                              | x         | -           | x     |
 | The Weeknd/Our Last Night - Can't Feel My Face            | -         | -           | -     |
-| Beat It/Can't Hold Us - Michael Jackson/Macklemore        | -         | -           | -     |
+| Can't Beat It - Michael Jackson/Macklemore                | -         | -           | -     |
 | Taylor Swift/Our Last Night - Blank Space                 | -         | -           | -     |
 | Dua Lipa/First To Eleven - New Rules                      | -         | -           | -     |
 
