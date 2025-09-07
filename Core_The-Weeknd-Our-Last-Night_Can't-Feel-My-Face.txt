@@ -1,6 +1,8 @@
 The Weeknd/Our Last Night - Can't Feel My Face
 
-BPM: 112
+Original BPM: 108
+
+Cover BPM: 112
 Time Signature: 4/4
 Key: x (x x x x x x x)
 Progression : i i i i (A A A A)

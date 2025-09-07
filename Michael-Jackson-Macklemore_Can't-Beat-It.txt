@@ -1,6 +1,10 @@
 Michael Jackson/Macklemore - Can't Beat It
+(Spicy Corgies version: 6 half-steps down)
 
-BPM: 146
+Beat iT BPM: 139
+Can't Hold Us BPM: 146
+
+Mashup BPM: 146
 Time Signature: 4/4
 Key: x (x x x x x x x)
 Progression : i i i i (A A A A)
