@@ -11,7 +11,7 @@ Progression : i i i i (A A A A)
 
 Bass tone: picked P bass (jazz neck pickup works), tone full.
 
-TODO Structure:
+Structure:
 
     Part    Bars   Substructure
 
