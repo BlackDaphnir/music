@@ -36,10 +36,10 @@ Text-based music resources. Contains:
 | Britney Spears/Rain Paris - Toxic                         | x         | -           | -     |
 | Postmodern Jukebox - Creep                                | x         | x           | -     |
 | Bruno Mars - When I Was Your Man                          | -         | -           | -     |
-| Muse - Feeling Good                                       | o         | -           | o     |
+| Muse - Feeling Good                                       | x         | -           | x     |
 | The Killers - Mr. Brightside                              | x         | -           | x     |
 | The Weeknd/Our Last Night - Can't Feel My Face            | -         | -           | -     |
-| Can't Beat It - Michael Jackson/Macklemore                | -         | -           | -     |
+| Can't Beat It - Michael Jackson/Macklemore                | x         | -           | x     |
 | Taylor Swift/Our Last Night - Blank Space                 | -         | -           | -     |
 | Dua Lipa/First To Eleven - New Rules                      | -         | -           | -     |
 
