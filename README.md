@@ -42,6 +42,9 @@ Text-based music resources. Contains:
 | Can't Beat It - Michael Jackson/Macklemore                | x         | -           | x     |
 | Taylor Swift/Our Last Night - Blank Space                 | -         | -           | -     |
 | Dua Lipa/First To Eleven - New Rules                      | -         | -           | -     |
+| Lady Gaga & Bruno Mars - Die With A Smile                 | -         | -           | -     |
+| Eurythmics - Sweet Dreams                                 | -         | -           | -     |
+| Amy Winehouse - Back To Black                             | -         | -           | -     |
 
 | Legend |       |
 |:------:|-------|
