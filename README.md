@@ -28,23 +28,24 @@ Text-based music resources. Contains:
 | Piece                	                                    | Structure | Chord Chart | Tabs  |
 |-----------------------------------------------------------|:---------:|:-----------:|:-----:|
 | Artist - Title                                            | -         | -           | -     |
-| Lady Gaga & Bradley Cooper - Shallow                      | x         | -           | x     |
-| Coolio - Gangsta's Paradise                               | x         | x           | x     |
+| Karol G - Si Antes Te Hubiera Conocido                    | -         | -           | -     |
+| Amy Winehouse - Back To Black                             | -         | -           | -     |
 | Black Eyed Peas - Let's Get Retarded                      | x         | x           | x     |
-| DNCE - Cake By The Ocean                                  | x         | x           | x     |
-| The Cranberries - Zombie                                  | x         | x           | x     |
 | Britney Spears/Rain Paris - Toxic                         | x         | -           | -     |
-| Postmodern Jukebox - Creep                                | x         | x           | -     |
 | Bruno Mars - When I Was Your Man                          | -         | -           | -     |
+| Coolio - Gangsta's Paradise                               | x         | x           | x     |
+| DNCE - Cake By The Ocean                                  | x         | x           | x     |
+| Dua Lipa/First To Eleven - New Rules                      | -         | -           | -     |
+| Eurythmics - Sweet Dreams                                 | -         | -           | -     |
+| Lady Gaga & Bradley Cooper - Shallow                      | x         | -           | x     |
+| Lady Gaga & Bruno Mars - Die With A Smile                 | -         | -           | -     |
+| Michael Jackson/Macklemore - Can't Beat It                | x         | -           | x     |
 | Muse - Feeling Good                                       | x         | -           | x     |
+| Postmodern Jukebox - Creep                                | x         | x           | -     |
+| Taylor Swift/Our Last Night - Blank Space                 | -         | -           | -     |
+| The Cranberries - Zombie                                  | x         | x           | x     |
 | The Killers - Mr. Brightside                              | x         | -           | x     |
 | The Weeknd/Our Last Night - Can't Feel My Face            | -         | -           | -     |
-| Can't Beat It - Michael Jackson/Macklemore                | x         | -           | x     |
-| Taylor Swift/Our Last Night - Blank Space                 | -         | -           | -     |
-| Dua Lipa/First To Eleven - New Rules                      | -         | -           | -     |
-| Lady Gaga & Bruno Mars - Die With A Smile                 | -         | -           | -     |
-| Eurythmics - Sweet Dreams                                 | -         | -           | -     |
-| Amy Winehouse - Back To Black                             | -         | -           | -     |
 
 | Legend |       |
 |:------:|-------|
