@@ -2,7 +2,9 @@
 
 Text-based music resources. Contains:
 * A song chart template with song characteristics, structure, chord chart, and tab templates.
+* Tab templates for common signatures & detail.
 * Song charts
+* Practice tabs for drills and technique
 
 ## Tab tips
 
@@ -10,7 +12,7 @@ Text-based music resources. Contains:
 |:------:|--------------------------------------------------|
 |   x    | xxx                                              |
 |   x    | Muted note/Dead note                             |
-| (fret) | Ghost note                                       |
+| (fret) | Ghost note/Ornament                              |
 |   /    | Slide up                                         |
 |   \    | Slide down                                       |
 |   h    | Hammer-on (e.g. 3h5)                             |
@@ -22,13 +24,18 @@ Text-based music resources. Contains:
 |   ^    | Upstroke (pick)                                  |
 |   PM   | Palm Mute                                        |
 |   LR   | Let Ring                                         |
+|   T    | Thumb (slap)                                     |
+|   P    | Pop                                              |
 
 ## Song chart progress
+
+Pieces in **bold** are TO DO in priority.
 
 | Piece                	                                    | Structure | Chord Chart | Tabs  |
 |-----------------------------------------------------------|:---------:|:-----------:|:-----:|
 | Artist - Title                                            | -         | -           | -     |
-| Karol G - Si Antes Te Hubiera Conocido                    | -         | -           | -     |
+| Artist - Title                                            | -         | -           | -     |
+| Red Hot Chili Peppers - Californication                   | -         | -           | -     |
 | Amy Winehouse - Back To Black                             | -         | -           | -     |
 | Black Eyed Peas - Let's Get Retarded                      | x         | x           | x     |
 | Britney Spears/Rain Paris - Toxic                         | x         | -           | -     |
@@ -37,6 +44,7 @@ Text-based music resources. Contains:
 | DNCE - Cake By The Ocean                                  | x         | x           | x     |
 | Dua Lipa/First To Eleven - New Rules                      | -         | -           | -     |
 | Eurythmics - Sweet Dreams                                 | -         | -           | -     |
+| **Karol G - Si Antes Te Hubiera Conocido**                | -         | -           | -     |
 | Lady Gaga & Bradley Cooper - Shallow                      | x         | -           | x     |
 | Lady Gaga & Bruno Mars - Die With A Smile                 | -         | -           | -     |
 | Michael Jackson/Macklemore - Can't Beat It                | x         | -           | x     |
