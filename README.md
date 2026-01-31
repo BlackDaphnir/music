@@ -34,8 +34,6 @@ Pieces in **bold** are TO DO in priority.
 | Piece                	                                    | Structure | Chord Chart | Tabs  |
 |-----------------------------------------------------------|:---------:|:-----------:|:-----:|
 | Artist - Title                                            | -         | -           | -     |
-| Artist - Title                                            | -         | -           | -     |
-| Red Hot Chili Peppers - Californication                   | -         | -           | -     |
 | Amy Winehouse - Back To Black                             | -         | -           | -     |
 | Black Eyed Peas - Let's Get Retarded                      | x         | x           | x     |
 | Britney Spears/Rain Paris - Toxic                         | x         | -           | -     |
@@ -50,6 +48,7 @@ Pieces in **bold** are TO DO in priority.
 | Michael Jackson/Macklemore - Can't Beat It                | x         | -           | x     |
 | Muse - Feeling Good                                       | x         | -           | x     |
 | Postmodern Jukebox - Creep                                | x         | x           | -     |
+| **Red Hot Chili Peppers - Californication**               | -         | -           | -     |
 | Taylor Swift/Our Last Night - Blank Space                 | -         | -           | -     |
 | The Cranberries - Zombie                                  | x         | x           | x     |
 | The Killers - Mr. Brightside                              | x         | -           | x     |
