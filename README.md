@@ -51,7 +51,7 @@ Pieces in **bold** are TO DO in priority.
 | Michael Jackson/Macklemore - Can't Beat It                | x         | -           | x     |
 | Muse - Feeling Good                                       | x         | -           | x     |
 | **Muse - Time Is Running Out**                            | -         | -           | -     |
-| **Our Last Night - Skyfall**                              | -         | -           | -     |
+| **Our Last Night - Skyfall**                              | x         | o           | o     |
 | Postmodern Jukebox - Creep                                | x         | x           | -     |
 | **Red Hot Chili Peppers - Californication**               | -         | -           | -     |
 | **Stevie Wonder - Master Blaster (Jammin')**              | -         | -           | -     |
