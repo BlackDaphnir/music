@@ -26,6 +26,8 @@ Text-based music resources. Contains:
 |   LR   | Let Ring                                         |
 |   T    | Thumb (slap)                                     |
 |   P    | Pop                                              |
+|   .    | Staccato                                         |
+|   M    | Mute                                             |
 
 ## Song chart progress
 
