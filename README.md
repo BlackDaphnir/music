@@ -46,16 +46,16 @@ Pieces in **bold** are TO DO in priority.
 | Eurythmics - Sweet Dreams                                 | -         | -           | -     |
 | **Foo Fighters - Walk**                                   | -         | -           | -     |
 | **Guns'n'Roses - Knocking On Heaven's Door**              | -         | -           | -     |
-| **Karol G - Si Antes Te Hubiera Conocido**                | -         | -           | -     |
+| *Karol G - Si Antes Te Hubiera Conocido*                  | -         | -           | -     |
 | Lady Gaga & Bradley Cooper - Shallow                      | x         | -           | x     |
 | Lady Gaga & Bruno Mars - Die With A Smile                 | -         | -           | -     |
 | **Men I Trust - Sugar**                                   | -         | -           | -     |
 | Michael Jackson/Macklemore - Can't Beat It                | x         | -           | x     |
 | Muse - Feeling Good                                       | x         | -           | x     |
 | **Muse - Time Is Running Out**                            | -         | -           | -     |
-| **Our Last Night - Skyfall**                              | x         | o           | o     |
+| Our Last Night - Skyfall                                  | x         | o           | x     |
 | Postmodern Jukebox - Creep                                | x         | x           | -     |
-| **Red Hot Chili Peppers - Californication**               | -         | -           | -     |
+| *Red Hot Chili Peppers - Californication*                 | -         | -           | -     |
 | **Stevie Wonder - Master Blaster (Jammin')**              | -         | -           | -     |
 | Taylor Swift/Our Last Night - Blank Space                 | -         | -           | -     |
 | The Cranberries - Zombie                                  | x         | x           | x     |

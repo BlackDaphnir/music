@@ -1,0 +1,35 @@
+Stevie Wonder - Master Blaster (Jammin')
+
+BPM: 131
+Time Signature: 4/4 swung
+Key: c (x x x x x x x)
+Progression : i i i i (A A A A)
+
+Nice covers :
+- https://www.youtube.com/watch?v=Jf7Uia5itL4
+- https://www.youtube.com/watch?v=iFFGoy_FMDM
+
+TODO Bass tone: plucked/picked, effects, characteristics, how-to, etc.
+
+TODO Structure:
+
+    Part    Bars   Substructure
+
+    Intro   4      A A
+    Verse   12     B B A A A A
+    Chorus  8      B B B B
+    Verse   12     A A A A A A
+    Bridge  4      A A
+    Chorus  8      B B B B
+    Verse   8      A A A A
+    Chorus  8      B B B B
+    Bridge  8      B B B B
+    Outro   4+4    B B - -
+
+TODO Chord chart (per part):
+
+||A   |B C |%   |D   |
+ |    |    |    |    |
+ |    |    |    |    ||
+
+TODO Tabs (if needed):

@@ -1,7 +1,7 @@
-Artist - Song
+Muse - Time Is Running Out
 
-BPM: xx
-Time Signature: x/x
+BPM: 118
+Time Signature: 4/4
 Key: x (x x x x x x x)
 Progression : i i i i (A A A A)
 
