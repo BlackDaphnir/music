@@ -1,0 +1,23 @@
+Table for each piece of gear to concatenate for setlist settings:
+
+| Piece                                                     | Set 1 | Set 2 | Set 3 | Set 4 |
+|-----------------------------------------------------------|:-----:|:-----:|:-----:|:-----:|
+| Artist - Title                                            | Value | xx    | xx    | xx    |
+
+
+
+| Marcus Miller V7 Bass                                     | Tech. | Vol | Tone | Blend | Bass | MidFr | Mid | High |
+|-----------------------------------------------------------|:-----:|:---:|:----:|:-----:|:----:|:-----:|:---:|:----:|
+| Artist - Title                                            | -     | 10  | -    | -     | -    | -     | -   | -    |
+
+| Boss OC-5 Octave pedal                                    | Mode | Direct | +1 | -1 | -2/range |
+|-----------------------------------------------------------|:----:|:------:|:--:|:--:|:--------:|
+| Artist - Title                                            | -    | xx     | xx | xx | xx       |
+
+| Deluxe Bass Big Muff                                      | Vol | Blend | Tone | Sust | Gate | Cross | HPF | LPF |
+|-----------------------------------------------------------|:---:|:-----:|:----:|:----:|:----:|:-----:|:---:|:---:|
+| Artist - Title                                            | xx  | xx    | xx   | xx   | xx   | xx    | xx  | xx  |
+
+| Yamaha CS-100 Compressor Sustainer                        | Out | Att | Sust | Tone |
+|-----------------------------------------------------------|:---:|:---:|:----:|:----:|
+| Artist - Title                                            | xx  | xx  | xx   | xx   |
