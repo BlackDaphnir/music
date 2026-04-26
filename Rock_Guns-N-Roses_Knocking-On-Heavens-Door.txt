@@ -1,31 +1,35 @@
 Guns'n'Roses - Knocking On Heaven's Door
 
 BPM: 66
-Time Signature: x/x
+Time Signature: 4/4
 Key: x (x x x x x x x)
 Progression : i i i i (A A A A)
 
+Covers:
+- https://www.youtube.com/watch?v=KPehA6rf9ak
+
 TODO Bass tone: plucked/picked, effects, characteristics, how-to, etc.
 
-TODO Structure:
-
+Structure:
+==========
     Part    Bars   Substructure
 
-    Intro   4      A A
-    Verse   12     B B A A A A
-    Chorus  8      B B B B
-    Verse   12     A A A A A A
-    Bridge  4      A A
-    Chorus  8      B B B B
-    Verse   8      A A A A
-    Chorus  8      B B B B
-    Bridge  8      B B B B
-    Outro   4+4    B B - -
+    Intro   4+4    I
+    Verse   8      A
+    Chorus  8      B
+    Solo    8      S
+    Verse   8      A
+    Chorus  8      B
+    Solo    8+4    S P
+    Bridge  4+16   P p
+    Chorus  8      B
+    Outro   4      O
 
 TODO Chord chart (per part):
-
+============================
 ||A   |B C |%   |D   |
  |    |    |    |    |
  |    |    |    |    ||
 
 TODO Tabs (if needed):
+======================
