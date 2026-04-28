@@ -2,13 +2,13 @@ Guns'n'Roses - Knocking On Heaven's Door
 
 BPM: 66
 Time Signature: 4/4
-Key: x (x x x x x x x)
+Key: x (x x x x x x x) (Spicy Corgis version: -2 semitones from original)
 Progression : i i i i (A A A A)
 
 Covers:
 - https://www.youtube.com/watch?v=KPehA6rf9ak
 
-TODO Bass tone: plucked/picked, effects, characteristics, how-to, etc.
+Bass tone: bright picked tone. Mid boost, chorus.
 
 Structure:
 ==========
