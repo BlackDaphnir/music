@@ -27,7 +27,7 @@ Text-based music resources. Contains:
 |   T    | Thumb (slap)                                     |
 |   P    | Pop                                              |
 |   .    | Staccato                                         |
-|   M    | Mute                                             |
+|   M    | Mute (end note)                                  |
 
 ## Song chart progress
 
