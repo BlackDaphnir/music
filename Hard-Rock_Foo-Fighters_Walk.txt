@@ -1,7 +1,7 @@
 Foo Fighters - Walk
 
 BPM: 132 (intro) - 140
-Time Signature: x/x
+Time Signature: 4/4
 Key: x (x x x x x x x)
 Progression : i i i i (A A A A)
 
@@ -9,18 +9,18 @@ TODO Bass tone: plucked/picked, effects, characteristics, how-to, etc.
 
 TODO Structure:
 
-    Part    Bars   Substructure
+    Part     Bars   Substructure
 
-    Intro   4      A A
-    Verse   12     B B A A A A
-    Chorus  8      B B B B
-    Verse   12     A A A A A A
-    Bridge  4      A A
-    Chorus  8      B B B B
-    Verse   8      A A A A
-    Chorus  8      B B B B
-    Bridge  8      B B B B
-    Outro   4+4    B B - -
+    Intro    4      
+    Verse    x      
+    Chorus   x      
+    Re-intro x      
+    Verse    x      
+    Chorus   x      
+    Bridge   x      
+    Chorus   x      
+    Chorus   x      
+    Outro    x      
 
 TODO Chord chart (per part):
 
