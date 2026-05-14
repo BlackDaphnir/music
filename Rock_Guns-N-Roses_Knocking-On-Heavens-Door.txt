@@ -33,3 +33,9 @@ TODO Chord chart (per part):
 
 TODO Tabs (if needed):
 ======================
+    Intro   4+4    I
+    Verse   8      A
+    Chorus  8      B
+    Solo    8+4    S P
+    Bridge  4+16   P p
+    Outro   4      O
