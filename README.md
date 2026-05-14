@@ -22,6 +22,7 @@ Text-based music resources. Contains:
 |   tr   | Trill                                            |
 |   v    | Downstroke (pick)                                |
 |   ^    | Upstroke (pick)                                  |
+|   >    | Accent                                           |
 |   PM   | Palm Mute                                        |
 |   LR   | Let Ring                                         |
 |   T    | Thumb (slap)                                     |
