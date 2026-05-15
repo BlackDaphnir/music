@@ -50,7 +50,7 @@ Pieces in **bold** are TO DO in priority.
 | *Karol G - Si Antes Te Hubiera Conocido*                  | -         | -           | -     |
 | Lady Gaga & Bradley Cooper - Shallow                      | x         | -           | x     |
 | Lady Gaga & Bruno Mars - Die With A Smile                 | -         | -           | -     |
-| **Men I Trust - Sugar**                                   | -         | -           | -     |
+| Men I Trust - Sugar                                       | x         | -           | x     |
 | Michael Jackson/Macklemore - Can't Beat It                | x         | -           | x     |
 | Muse - Feeling Good                                       | x         | -           | x     |
 | Muse - Time Is Running Out                                | x         | -           | x     |
