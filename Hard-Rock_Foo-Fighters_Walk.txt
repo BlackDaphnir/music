@@ -9,18 +9,18 @@ TODO Bass tone: plucked/picked, effects, characteristics, how-to, etc.
 
 TODO Structure:
 
-    Part     Bars   Substructure
+    Part     Bars     Substructure
 
-    Intro    4      
-    Verse    x      
-    Chorus   x      
-    Re-intro x      
-    Verse    x      
-    Chorus   x      
-    Bridge   x      
-    Chorus   x      
-    Chorus   x      
-    Outro    x      
+    Intro    6        
+    Verse    x        
+    Chorus   16       
+    Re-intro 4        
+    Verse    16       
+    Chorus   16       
+    Bridge   12+12+12      
+    Chorus   16       
+    Chorus   16       
+    Outro    9        
 
 TODO Chord chart (per part):
 
