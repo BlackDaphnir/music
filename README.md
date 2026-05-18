@@ -45,8 +45,8 @@ Pieces in **bold** are TO DO in priority.
 | DNCE - Cake By The Ocean                                  | x         | x           | x     |
 | Dua Lipa/First To Eleven - New Rules                      | -         | -           | -     |
 | Eurythmics - Sweet Dreams                                 | -         | -           | -     |
-| **Foo Fighters - Walk**                                   | -         | -           | -     |
-| **Guns'n'Roses - Knocking On Heaven's Door**              | -         | -           | -     |
+| **Foo Fighters - Walk**                                   | x         | -           | -     |
+| **Guns'n'Roses - Knocking On Heaven's Door**              | x         | -           | -     |
 | *Karol G - Si Antes Te Hubiera Conocido*                  | -         | -           | -     |
 | Lady Gaga & Bradley Cooper - Shallow                      | x         | -           | x     |
 | Lady Gaga & Bruno Mars - Die With A Smile                 | -         | -           | -     |
@@ -58,7 +58,7 @@ Pieces in **bold** are TO DO in priority.
 | Our Last Night - Skyfall                                  | x         | x           | x     |
 | Postmodern Jukebox - Creep                                | x         | x           | -     |
 | *Red Hot Chili Peppers - Californication*                 | -         | -           | -     |
-| **Stevie Wonder - Master Blaster (Jammin')**              | -         | -           | -     |
+| **Stevie Wonder - Master Blaster (Jammin')**              | x         | -           | -     |
 | The Cranberries - Zombie                                  | x         | x           | x     |
 | The Killers - Mr. Brightside                              | x         | -           | x     |
 | The Weeknd/Our Last Night - Can't Feel My Face            | -         | -           | -     |
