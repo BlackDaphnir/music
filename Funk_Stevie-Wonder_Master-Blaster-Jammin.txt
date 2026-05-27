@@ -29,6 +29,23 @@ Structure:
     Chorus      8+8+8  C C C
     Outro       16+8   F G(fade out after 4)
 
+Afterlive 2026 Structure:
+=========================
+    Part        Bars   Substructure
+
+    Drum Intro  x      -
+    Bass Entry  8      A B
+    Sax Entry   8      B1
+    Verse       16     B2 B3
+    Chorus      8      C C1
+    Unison 1    4      D
+    Verse       16     B4 B5
+    Chorus      8      C C2 C C2
+    Unison 2    8      E
+    Bridge      8      A1
+    Verse       16     B6 B7
+    Chorus      8+8    C C C
+
 TODO Chord chart (per part):
 
 ||A   |B C |%   |D   |
