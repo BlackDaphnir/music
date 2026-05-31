@@ -25,6 +25,21 @@ Structure:
     Chorus  8      B
     Outro   4      O
 
+Proposition 31/05/26:
+=====================
+    Part     Bars   Substructure
+
+    Intro    4+4    I
+    Verse    8      A
+    Chorus   8      B
+    Solo     8      S
+    Verse    8      A
+    Chorus   8      B
+    Solo     8+4    S P
+    Sax Solo 6+2    P P2 p
+    Chorus   8      B
+    Outro    4      O
+
 TODO Chord chart (per part):
 ============================
 ||A   |B C |%   |D   |
