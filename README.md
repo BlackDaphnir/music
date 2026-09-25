@@ -37,7 +37,9 @@ Pieces in **bold** are TO DO in priority.
 | Piece                	                                    | Structure | Chord Chart | Tabs  |
 |-----------------------------------------------------------|:---------:|:-----------:|:-----:|
 | Artist - Title                                            | -         | -           | -     |
+| **Alicia Keys - Fallin'**                                 | -         | -           | -     |
 | Amy Winehouse - Back To Black                             | -         | -           | -     |
+| **Amy Winehouse - Valerie**                               | -         | -           | -     |
 | Black Eyed Peas - Let's Get Retarded                      | x         | x           | x     |
 | Britney Spears/Rain Paris - Toxic                         | x         | -           | -     |
 | Bruno Mars - When I Was Your Man                          | -         | -           | -     |
@@ -62,6 +64,7 @@ Pieces in **bold** are TO DO in priority.
 | The Cranberries - Zombie                                  | x         | x           | x     |
 | The Killers - Mr. Brightside                              | x         | -           | x     |
 | The Weeknd/Our Last Night - Can't Feel My Face            | -         | -           | -     |
+| Three Days Grace - Get Out Alive                          | -         | -           | -     |
 
 | Legend |       |
 |:------:|-------|
