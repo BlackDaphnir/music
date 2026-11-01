@@ -1,0 +1,50 @@
+Amy Winehouse - Valerie
+
+BPM: xx
+Time Signature: 4/4
+Key: x (x x x x x x x) - Spicy Corgies: -4 semitones
+Progression : i i i i (A A A A)
+
+TODO Bass tone: plucked/picked, effects, characteristics, how-to, etc.
+
+TODO Structure:
+
+    Part        Bars   Substructure
+    ====        ====   ============
+    Intro       4      A A
+    Verse       12     B B A A A A
+    Pre-Chorus  
+    Chorus      8      B B B B
+    Verse       12     A A A A A A
+    Verse       12     A A A A A A
+    Pre-Chorus  
+    Chorus      8      B B B B
+    Verse       12     A A A A A A
+    Pre-Chorus  
+    Chorus      8      B B B B
+    Chorus      8      B B B B
+    Outro       
+
+TODO Chord chart (per part):
+
+||A   |B C |%   |D   |
+ |    |    |    |    |
+ |    |    |    |    ||
+
+TODO Tabs (if needed):
+
+Ch.                                                                     // Chord
+Art.                                                                    // Articulation
+G ||----------------|----------------|----------------|----------------|
+D ||----------------|----------------|----------------|----------------|
+A ||----------------|----------------|----------------|----------------|
+E ||----------------|----------------|----------------|----------------|
+    | & | & | & | &  | & | & | & | &  | & | & | & | &  | & | & | & | &  
+
+Ch.                                                                     // Chord
+Art.                                                                    // Articulation
+G ||----------------|----------------|----------------|----------------|
+D ||----------------|----------------|----------------|----------------|
+A ||----------------|----------------|----------------|----------------|
+E ||7-----7-----7---|----7---7-------|----------------|----------------|
+    | & | & | & | &  | & | & | & | &  | & | & | & | &  | & | & | & | &  
